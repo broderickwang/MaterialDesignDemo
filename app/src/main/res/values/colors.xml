@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="MainColor">#34b8f4</color>
+
+    <!--refresh color-->
+    <color name="color1">#66CCFF</color>
+    <color name="color2">#FFFFFF</color>
+    <color name="color3">#CCFFFF</color>
+
+    <color name="bgcolor">#FDFDFD</color>
+
+    <color name="red">#FF4640</color>
+    <color name="green">#40FF70</color>
+
+    <color name="main_tab_text_selected">#845c5c</color>
+    <color name="main_tab_text">#181717</color>
+</resources>
