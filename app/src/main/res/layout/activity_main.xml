@@ -9,12 +9,11 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.hannahxian.materialdesigndemo.MainActivity">
-    <Button
+    <ImageView
         android:id="@+id/animtest"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="this is a anim test button"
-        android:background="@drawable/bg_write_conder5"
+        android:src="@drawable/images"
         android:elevation="6dp"/>
     <View
         android:id="@+id/v"

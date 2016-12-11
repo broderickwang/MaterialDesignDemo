@@ -29,8 +29,6 @@ public class MainActivity extends Activity {
     @Bind(R.id.jump)
     Button jump;
     Animator anim;
-    @Bind(R.id.animtest)
-    Button animtest;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
